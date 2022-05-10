@@ -1,4 +1,4 @@
-## Meesho Clone [Meesho Clone](https://meesho-eccom.netlify.app/) [![Website https://meesho-by-nitrogen.netlify.app](https://img.shields.io/website-up-down-green-red/https/meesho-by-nitrogen.netlify.app.svg)](https://meesho-by-nitrogen.netlify.app/)
+## Meesho Clone [Meesho Clone](https://meesho-eccom.netlify.app/) [![https://meesho-eccom.netlify.app/](https://img.shields.io/website-up-down-green-red/https/meesho-by https://meesho-eccom.netlify.app/)](https://meesho-eccom.netlify.app/)
 Meesho is an indian e-commerce company, We tried core functionalities of Meesho during Third Construct Week held after completition of Unit 4 in Masai.
 
 ## Technologies used :-
