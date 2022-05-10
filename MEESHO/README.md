@@ -1,4 +1,4 @@
-## Meesho Clone [Meesho Clone](https://meesho-by-nitrogen.netlify.app) [![Website https://meesho-by-nitrogen.netlify.app](https://img.shields.io/website-up-down-green-red/https/meesho-by-nitrogen.netlify.app.svg)](https://meesho-by-nitrogen.netlify.app/)
+## Meesho Clone [Meesho Clone](https://meesho-eccom.netlify.app/) [![Website https://meesho-by-nitrogen.netlify.app](https://img.shields.io/website-up-down-green-red/https/meesho-by-nitrogen.netlify.app.svg)](https://meesho-by-nitrogen.netlify.app/)
 Meesho is an indian e-commerce company, We tried core functionalities of Meesho during Third Construct Week held after completition of Unit 4 in Masai.
 
 ## Technologies used :-
@@ -16,7 +16,7 @@ Meesho is an indian e-commerce company, We tried core functionalities of Meesho 
 
 ## Contributions:-
 
-### [Nikhil Kumar](https://github.com/12NikhilKumar) - [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-520300218)
+### [kishan Prajapati](https://github.com/kishan2406) - [LinkedIn](https://www.linkedin.com/in/kishan-prajapati-5379621a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlEI%2BIgBQRcODHYhdXT9c9w%3D%3D)
 
 ### [Pratham Agrawal](https://github.com/pratham2002) - [LinkedIn](https://www.linkedin.com/in/pratham-agrawal-940590174)
 
