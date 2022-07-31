@@ -1,4 +1,4 @@
 
-# Frontend Link At Right Side in About -->
+# Frontend Link At Right Side in About section-->
 
 
